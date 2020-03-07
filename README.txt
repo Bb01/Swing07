@@ -10,3 +10,5 @@ We get the mainframe to create an instance of that interface.
 We pass a reference to that interface object into the Toolbar.
 When the Toolbar has anything to communicate, it invokes a method on that thing/interface/listening object within the Mainframe.
 The Mainframe can then process the incoming messages as needed.   
+
+Made a small change on Bb Toshiba
